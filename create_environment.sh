@@ -105,3 +105,5 @@ EOF
 
 # Make the files executable
 find . -name "*.sh" -exec chmod +x {} \;
+
+echo "The environment has been setup succesfully"
